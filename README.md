@@ -1,10 +1,6 @@
 ## Recent Goals
-- Industrial confusion & inconvenience engineering  
+- I do Graphical/AI shinanigins, anything and everything inbetween
+- Mad at my younger self for not saving my old C++ and Unity projects(if i see that kid ill kill him)
+- In love with bugs
 - Force push and pray  
-- *Verose* abstraction (in the general sense, as it applies to cubic regression)  
-- How to live (it's hard)
-## Future Aspirations
-- Being able to say "I use Arch btw"
-- Contributing to `nonsense-lang` (syntax TBD)  
-- Becoming a Senior Developer of Junior Ideas  
-- Building a startup to pivot into pivoting
+- Up for any work Please For The Love Of GOD😭
