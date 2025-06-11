@@ -1,6 +1,6 @@
 ## Recent Goals
 - I do Graphical/AI shenanigans, anything and everything inbetween
-- C/C++/C#/Cx/C::/C--/C€
-- Favourite animals are bugs🐞
+- C/C++/C#
+- bugs🐞
 - Force push and pray🥀
-- I use Arch btw
+- I use Arch
