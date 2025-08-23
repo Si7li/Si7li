@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Si7li&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Si7li&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Si7li&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -6,13 +6,13 @@
 
 ###
 
-<h4 align="left">My manifesto :<br>• I do Graphical/AI shenanigans, anything and everything inbetween<br>• bugs🐞<br>• Force push and pray🥀<br>• I use Arch btw</h4>
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/a3wpoy.gif"  />
+</div>
 
 ###
 
-<div align="left">
-  <img height="150" src="https://i.imgflip.com/a3wpoy.gif"  />
-</div>
+<h4 align="center">My manifesto :<br>• I do Graphical/AI shenanigans, anything and everything inbetween<br>• bugs🐞<br>• Force push and pray🥀<br>• I use Arch btw</h4>
 
 ###
 
@@ -61,12 +61,19 @@
 ###
 
 <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Si7li.Si7li&"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/khalil-sahli/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/khalilsahli3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mohamedkhalil.sahli@enicar.ucar.tn&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
