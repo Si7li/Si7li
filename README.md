@@ -76,9 +76,6 @@
   <a href="https://buymeacoffee.com/SI7li" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
   </a>
-  <a href="https://ko-fi.com/F1F21K6YKY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mohamedkhalil.sahli@enicar.ucar.tn&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
