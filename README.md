@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">My manifesto :<br>• I do Graphical/AI shenanigans, anything and everything inbetween<br>• bugs🐞<br>• Force push and pray🥀<br>• I use Arch btw </h4>
+<h4 align="center">My manifesto :<br>• I do Graphical/AI shenanigans, anything and everything inbetween<br>• bugs🐞<br>• Force push and pray🥀<br>• I use Arch btw</h4>
 
 ###
 
